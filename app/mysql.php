@@ -1,3 +1,5 @@
 <?php
 
-ACCESO A BD DESDE PHP
+class mysql{
+    protected $data = [];
+}
