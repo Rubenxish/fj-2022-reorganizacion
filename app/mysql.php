@@ -1,0 +1,3 @@
+<?php
+
+ACCESO A BD DESDE PHP
